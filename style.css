@@ -1,7 +1,6 @@
 body {
     font-family: 'Muli', sans-serif;
-    font-weight: 400
-    color:red;
+   
 
 }
 
@@ -14,5 +13,5 @@ h1 {
     font-family: 'Lora',
     sans-serif;
     font-weight:600;
-	
+	color:red
 }
